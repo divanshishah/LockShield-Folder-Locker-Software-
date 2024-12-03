@@ -39,6 +39,6 @@ Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any changes or enhancements.
 
 # Contact
-For any questions or feedback, reach out via email@example.com.
+For any questions or feedback, reach out via shahdivanshi@gmail.com.
 
 Built with ❤️ by divanshishah
