@@ -19,7 +19,7 @@ Encryption: AES (Cryptography library)
 
 # Installation
 1)Clone this repository:
-git clone https://github.com/yourusername/lockshield.git  
+git clone https://github.com/divanshishah/lockshield.git  
 cd lockshield  
 2)Install the required dependencies:
 pip install -r requirements.txt  
